@@ -1,0 +1,23 @@
+
+.menubutton {
+  position: absolute;
+  bottom: 0;
+  /* margin: 0 10px 0 14px; */
+
+}
+
+.MuiButton-containedSizeSmall {
+  padding: 4px 10px;
+  font-size: 0.8125rem;
+  margin: 0 0 0 14px;
+}
+
+.ui.five.cards>.card {
+  height: 370px;
+  
+}
+
+.ui.five.cards {
+  margin-left: 10px;
+  margin-right: 10px;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "label": "Tab 1",
+    "content": {
+      "title": "Nam pretium turps",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  },
+  {
+    "label": "Tab 2",
+    "content": {
+      "title": "Praesent elementum facilisis",
+      "text": "Suspendisse in est ante in nibh mauris cursus mattis molestie. Praesent elementum facilisis leo vel fringilla est. Non odio euismod lacinia at. In hac habitasse platea dictumst quisque sagittis purus. Ut diam quam nulla porttitor massa id. Molestie at elementum eu facilisis sed odio morbi quis commodo. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Amet risus nullam eget felis eget nunc lobortis. Phasellus faucibus scelerisque eleifend donec pretium vulputate. Fermentum et sollicitudin ac orci."
+    }
+  },
+  {
+    "label": "Tab 3",
+    "content": {
+      "title": "Pretium viverra suspendisse",
+      "text": "Nascetur ridiculus mus mauris vitae. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Semper eget duis at tellus at. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Proin fermentum leo vel orci. Egestas egestas fringilla phasellus faucibus scelerisque eleifend. Amet luctus venenatis lectus magna. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Nunc non blandit massa enim nec dui. Nisl nisi scelerisque eu ultrices vitae auctor eu augue ut. Ultricies tristique nulla aliquet enim tortor at auctor urna."
+    }
+  }
+]

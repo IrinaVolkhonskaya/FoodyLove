@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Logo /> should renders <Logo /> component with props 1`] = `
+<img
+  alt="logo cafe"
+  className="logo"
+  height="100px"
+  src="logo.png"
+  width="100px"
+/>
+`;
+
+exports[`<Logo /> should renders <Logo /> component without props 1`] = `
+<img
+  alt="logo cafe"
+  className="logo"
+  src="logo.png"
+/>
+`;

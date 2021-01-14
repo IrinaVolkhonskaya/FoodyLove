@@ -1,0 +1,1 @@
+export default ['all' , 'soup', 'dessert', 'salad', 'main'];
